@@ -3,4 +3,6 @@ body{
     background-color: #000000;
     background-image: linear-gradient(135deg, #000000 0%, #000000, #000000 100%);
     
-    }
+    <body>
+    <p style="color:#FFEBCD";>Red paragraph text</p>
+  </body>
